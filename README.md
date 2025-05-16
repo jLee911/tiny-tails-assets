@@ -1,2 +1,1 @@
-# tiny-tails-assets
-**Tiny Tails: 3D Pet World** is a cute 3D pet game where players care for magical baby animals. This repo hosts public assets: textures, model links, and manifest files. Ideal for devs building with Unity, Three.js, or WebGL. GitHub Pages enabled for easy hosting and asset access.
+Tiny Tails: 3D Pet World is a cute 3D pet game where players care for magical baby animals. This repo hosts public assets: textures, model links, and manifest files. Ideal for devs building with Unity, Three.js, or WebGL. GitHub Pages enabled for easy hosting and asset access.
